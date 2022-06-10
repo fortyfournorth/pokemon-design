@@ -18,7 +18,7 @@ Using [Figma](https://www.figma.com/), please create a Mobile, Table, and Deskto
 
 ### Acceptance Criteria
 
--   [ ] Interfaces needs to function on a Phone, Tablet, and Desktop
+-   [ ] Interfaces needs to function on a Mobile, Tablet, and Desktop
 -   [ ] Application should have a Masthead which contains the title "Pokedex"
 -   [ ] User can See 3, 6, or 9 Pokemon Cards in the interface at a time
     -   User can Select how many Pokemon Cards are Displayed
@@ -36,3 +36,5 @@ Using [Figma](https://www.figma.com/), please create a Mobile, Table, and Deskto
     -   This Component should not have more than 5 page numbers visible at any given time.
     -   This Component should clearly show the active page number
 -   [ ] Application should have a means to Search or Filter the list of Pokemon
+
+A Sample Dataset has been provided for you in this [JSON File](https://github.com/fortyfournorth/pokemon-design/blob/main/data.json).
