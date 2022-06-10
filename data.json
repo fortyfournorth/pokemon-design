@@ -1,0 +1,1123 @@
+{
+    "data": {
+        "listPokemon": [
+            {
+                "id": "1",
+                "name": "bulbasaur",
+                "height": 7,
+                "weight": 69,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+                },
+                "types": [
+                    {
+                        "name": "grass"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "bulbasaur",
+                    "color": {
+                        "name": "green"
+                    },
+                    "flavorText": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis POKéMON.",
+                    "habitat": {
+                        "name": "grassland"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 49
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 49
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 45
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "overgrow",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "chlorophyll",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "name": "ivysaur",
+                "height": 10,
+                "weight": 130,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+                },
+                "types": [
+                    {
+                        "name": "grass"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "ivysaur",
+                    "color": {
+                        "name": "green"
+                    },
+                    "flavorText": "When the bulb on\nits back grows\nlarge, it appears\fto lose the\nability to stand\non its hind legs.",
+                    "habitat": {
+                        "name": "grassland"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 60
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 62
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 63
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 60
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "overgrow",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "chlorophyll",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "name": "venusaur",
+                "height": 20,
+                "weight": 1000,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+                },
+                "types": [
+                    {
+                        "name": "grass"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "venusaur",
+                    "color": {
+                        "name": "green"
+                    },
+                    "flavorText": "The plant blooms\nwhen it is\nabsorbing solar\fenergy. It stays\non the move to\nseek sunlight.",
+                    "habitat": {
+                        "name": "grassland"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 82
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 83
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 100
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 100
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 80
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "overgrow",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "chlorophyll",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "name": "charmander",
+                "height": 6,
+                "weight": 85,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+                },
+                "types": [
+                    {
+                        "name": "fire"
+                    }
+                ],
+                "species": {
+                    "name": "charmander",
+                    "color": {
+                        "name": "red"
+                    },
+                    "flavorText": "Obviously prefers\nhot places. When\nit rains, steam\fis said to spout\nfrom the tip of\nits tail.",
+                    "habitat": {
+                        "name": "mountain"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 39
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 52
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 43
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 60
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 65
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "blaze",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "solar-power",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "name": "charmeleon",
+                "height": 11,
+                "weight": 190,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+                },
+                "types": [
+                    {
+                        "name": "fire"
+                    }
+                ],
+                "species": {
+                    "name": "charmeleon",
+                    "color": {
+                        "name": "red"
+                    },
+                    "flavorText": "When it swings\nits burning tail,\nit elevates the\ftemperature to\nunbearably high\nlevels.",
+                    "habitat": {
+                        "name": "mountain"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 58
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 64
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 58
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 80
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "blaze",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "solar-power",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "name": "charizard",
+                "height": 17,
+                "weight": 905,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+                },
+                "types": [
+                    {
+                        "name": "fire"
+                    },
+                    {
+                        "name": "flying"
+                    }
+                ],
+                "species": {
+                    "name": "charizard",
+                    "color": {
+                        "name": "red"
+                    },
+                    "flavorText": "Spits fire that\nis hot enough to\nmelt boulders.\fKnown to cause\nforest fires\nunintentionally.",
+                    "habitat": {
+                        "name": "mountain"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 78
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 84
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 78
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 109
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 85
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 100
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "blaze",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "solar-power",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "name": "squirtle",
+                "height": 5,
+                "weight": 90,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+                },
+                "types": [
+                    {
+                        "name": "water"
+                    }
+                ],
+                "species": {
+                    "name": "squirtle",
+                    "color": {
+                        "name": "blue"
+                    },
+                    "flavorText": "After birth, its\nback swells and\nhardens into a\fshell. Powerfully\nsprays foam from\nits mouth.",
+                    "habitat": {
+                        "name": "waters-edge"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 44
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 48
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 64
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 43
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "torrent",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "rain-dish",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "name": "wartortle",
+                "height": 10,
+                "weight": 225,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+                },
+                "types": [
+                    {
+                        "name": "water"
+                    }
+                ],
+                "species": {
+                    "name": "wartortle",
+                    "color": {
+                        "name": "blue"
+                    },
+                    "flavorText": "Often hides in\nwater to stalk\nunwary prey. For\fswimming fast, it\nmoves its ears to\nmaintain balance.",
+                    "habitat": {
+                        "name": "waters-edge"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 59
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 63
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 58
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "torrent",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "rain-dish",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "name": "blastoise",
+                "height": 16,
+                "weight": 855,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+                },
+                "types": [
+                    {
+                        "name": "water"
+                    }
+                ],
+                "species": {
+                    "name": "blastoise",
+                    "color": {
+                        "name": "blue"
+                    },
+                    "flavorText": "A brutal POKéMON\nwith pressurized\nwater jets on its\fshell. They are\nused for high\nspeed tackles.",
+                    "habitat": {
+                        "name": "waters-edge"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 79
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 83
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 100
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 85
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 105
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 78
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "torrent",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "rain-dish",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "name": "caterpie",
+                "height": 3,
+                "weight": 29,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    }
+                ],
+                "species": {
+                    "name": "caterpie",
+                    "color": {
+                        "name": "green"
+                    },
+                    "flavorText": "If you touch the feeler on top of its head, it will\nrelease a horrible stink to protect itself.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 30
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 35
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 20
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 20
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 45
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "shield-dust",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "run-away",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "name": "metapod",
+                "height": 7,
+                "weight": 99,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    }
+                ],
+                "species": {
+                    "name": "metapod",
+                    "color": {
+                        "name": "green"
+                    },
+                    "flavorText": "This POKéMON is\nvulnerable to\nattack while its\fshell is soft,\nexposing its weak\nand tender body.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 20
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 55
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 25
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 25
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 30
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "shed-skin",
+                        "is_hidden": false
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "name": "butterfree",
+                "height": 11,
+                "weight": 320,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    },
+                    {
+                        "name": "flying"
+                    }
+                ],
+                "species": {
+                    "name": "butterfree",
+                    "color": {
+                        "name": "white"
+                    },
+                    "flavorText": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 60
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 90
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 70
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "compound-eyes",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "tinted-lens",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "name": "weedle",
+                "height": 3,
+                "weight": 32,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "weedle",
+                    "color": {
+                        "name": "brown"
+                    },
+                    "flavorText": "Often found in\nforests, eating\nleaves.\fIt has a sharp\nvenomous stinger\non its head.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 40
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 35
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 30
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 20
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 20
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 50
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "shield-dust",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "run-away",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "14",
+                "name": "kakuna",
+                "height": 6,
+                "weight": 100,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "kakuna",
+                    "color": {
+                        "name": "yellow"
+                    },
+                    "flavorText": "Almost incapable\nof moving, this\nPOKéMON can only\fharden its shell\nto protect itself\nfrom predators.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 25
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 25
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 25
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 35
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "shed-skin",
+                        "is_hidden": false
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "name": "beedrill",
+                "height": 10,
+                "weight": 295,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+                },
+                "types": [
+                    {
+                        "name": "bug"
+                    },
+                    {
+                        "name": "poison"
+                    }
+                ],
+                "species": {
+                    "name": "beedrill",
+                    "color": {
+                        "name": "yellow"
+                    },
+                    "flavorText": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 65
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 90
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 40
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 75
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "swarm",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "sniper",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "16",
+                "name": "pidgey",
+                "height": 3,
+                "weight": 18,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+                },
+                "types": [
+                    {
+                        "name": "normal"
+                    },
+                    {
+                        "name": "flying"
+                    }
+                ],
+                "species": {
+                    "name": "pidgey",
+                    "color": {
+                        "name": "brown"
+                    },
+                    "flavorText": "A common sight in\nforests and woods.\nIt flaps its\fwings at ground\nlevel to kick up\nblinding sand.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 40
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 45
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 40
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 35
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 35
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 56
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "keen-eye",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "tangled-feet",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "big-pecks",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "17",
+                "name": "pidgeotto",
+                "height": 11,
+                "weight": 300,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+                },
+                "types": [
+                    {
+                        "name": "normal"
+                    },
+                    {
+                        "name": "flying"
+                    }
+                ],
+                "species": {
+                    "name": "pidgeotto",
+                    "color": {
+                        "name": "brown"
+                    },
+                    "flavorText": "Very protective\nof its sprawling\nterritorial area,\fthis POKéMON will\nfiercely peck at\nany intruder.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 63
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 60
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 55
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 50
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 71
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "keen-eye",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "tangled-feet",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "big-pecks",
+                        "is_hidden": true
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "name": "pidgeot",
+                "height": 15,
+                "weight": 395,
+                "sprites": {
+                    "official_artwork_front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+                },
+                "types": [
+                    {
+                        "name": "normal"
+                    },
+                    {
+                        "name": "flying"
+                    }
+                ],
+                "species": {
+                    "name": "pidgeot",
+                    "color": {
+                        "name": "brown"
+                    },
+                    "flavorText": "When hunting, it\nskims the surface\nof water at high\fspeed to pick off\nunwary prey such\nas MAGIKARP.",
+                    "habitat": {
+                        "name": "forest"
+                    }
+                },
+                "stats": [
+                    {
+                        "name": "hp",
+                        "base_stat": 83
+                    },
+                    {
+                        "name": "attack",
+                        "base_stat": 80
+                    },
+                    {
+                        "name": "defense",
+                        "base_stat": 75
+                    },
+                    {
+                        "name": "special-attack",
+                        "base_stat": 70
+                    },
+                    {
+                        "name": "special-defense",
+                        "base_stat": 70
+                    },
+                    {
+                        "name": "speed",
+                        "base_stat": 101
+                    }
+                ],
+                "abilities": [
+                    {
+                        "name": "keen-eye",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "tangled-feet",
+                        "is_hidden": false
+                    },
+                    {
+                        "name": "big-pecks",
+                        "is_hidden": true
+                    }
+                ]
+            }
+        ]
+    }
+}
